@@ -1,0 +1,5 @@
+.idea/django_hh_proj.iml
+.idea/misc.xml
+django_hh_proj/.env
+db.sqlite3
+django_hh_proj/__pycache__/
